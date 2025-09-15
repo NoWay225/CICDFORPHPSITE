@@ -1,0 +1,8 @@
+name: My Workflow Name
+on: push
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Mysteps
+        run: echo "Hello from GitHub Actions!"
