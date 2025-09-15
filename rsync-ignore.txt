@@ -6,7 +6,7 @@
  
 /bin
 *rsync-ignore.txt
- 
+/exe
 /uploads
 /upgrade
 /themes/index.php
